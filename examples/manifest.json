@@ -1,0 +1,311 @@
+{
+  "generated_at": "2025-12-07T21:28:22.343865",
+  "total_images": 30,
+  "categories": {
+    "ecommerce": 10,
+    "social": 10,
+    "games": 10
+  },
+  "images": [
+    {
+      "category": "ecommerce",
+      "name": "luxury_watch",
+      "prompt": "Professional product photography of a luxury gold watch on white marble surface, studio lighting, 45-degree angle, macro lens, f/2.8 aperture, dramatic shadows, DCI-P3 color space",
+      "image_url": "https://d1ei2xrl63k822.cloudfront.net/api/res/67353c8a27234b4eb54448d8e48ff7b6.png?Expires=1765727420&Signature=DFXthot0AOohZ~qbSQEb5hn3~sbn9LMKPoNXZzXiL-qqP356TqMahFYEFUQ7tp0tGJ5eS-bAdLtk3uXDmARJv~0hus-YhUVLlmsayVBQQE-9y~b3OAMz4ZppTaR4oPERXo94Q6-T5-0FEC6~QC3oEhPI~Of6HUpLEWKcQczb~89bJy-iB7leBBPzSe~x2gL-n3e8g08GRt~1OxKKA0IHeaa8NPf0jQ-DcdOAodJqen0Bnwl7dJtlZ0oL7S-wZ7kqxM~IA~nH-DIFRCLWK9Br6CK15jIjk8QtvW0KfgobL4dFRN2nTkpPBEPkxwM7l21u1XyPwVLA-1BEdFrwV7fInw__&Key-Pair-Id=K2UXO1NPZVKO7N",
+      "quality_score": 0.95,
+      "generation_time": 14.432323,
+      "generation_id": 38,
+      "timestamp": "2025-12-07T21:20:12.189060"
+    },
+    {
+      "category": "ecommerce",
+      "name": "smartphone",
+      "prompt": "Premium smartphone in midnight black, floating on gradient background, side lighting, 30-degree angle, clean minimalist style, sharp focus, professional product shot",
+      "image_url": "https://d1ei2xrl63k822.cloudfront.net/api/res/a9b41bd880cc4936bd6905da051e23f8.png?Expires=1765727435&Signature=a7V4TRVVTGFcmhTRlpJsAQ5Ej-PqR~VipJbRyssl-IxYq29oCZ2m0nTPWtbFziFiuxlSqjx-kHtpvyjtGU8qnVTbtoJsE6ZdqghUUq6E7t6qy76tG7vQ-t-f1bhQY~zPqFX-OWDNzstyUnecrrnrKGDL2ftbPUaohdgdILo8PddoeJzgjB3pSg0dwWCIBNUXiIYWP1NautQXka9BjigvLuRQJrvFez-uzr7q~bGkpRX0~WrmmMT7KFB1XZUvaCih6Vjdx0kJBTJ-LQj-pgAprRSKhygoIjzLwHfj4RRHXXyvU8YQKxwuLp5UWyetemPCS97HVvZMvnLaqp-mn14GOA__&Key-Pair-Id=K2UXO1NPZVKO7N",
+      "quality_score": 0.95,
+      "generation_time": 13.831888,
+      "generation_id": 39,
+      "timestamp": "2025-12-07T21:20:27.061823"
+    },
+    {
+      "category": "ecommerce",
+      "name": "sneakers",
+      "prompt": "White athletic sneakers on concrete surface, natural lighting, golden hour, 45-degree angle, street style photography, shallow depth of field",
+      "image_url": "https://d1ei2xrl63k822.cloudfront.net/api/res/6b53a53c82214da7811dd1c80915a066.png?Expires=1765727450&Signature=Q-IMVUXBVuCeKdCrQFUdkGxe0xG~ZdXYiIQeeN--Sa4ecp-owx0ouiB~7tn7fgaSF6ZD~5-4APgHrqWMoxZnWc8QlB2k1bVnP4Q33qyINkcHilrcG3CxJ4x1riwbQFKk~jD5d5tA0YBaQLfSj~Wl-m4PBjodVuTBSAkTW0KW~c0OcSkqoNGFOHfIGQ5ivCHPbqpv92yiPxYBRUBmf-F5ZOdDxCbCz-MmhnJv8NZqv5dmjRKkuslWzbxgwkNfsNke5lxJtaXy0ANiqQ45xFSxj5fXgWKuM9nt0GD8HXGe7gHp8gew--lRM47JMQzL4vNghlCcMRwpVweA1CBBJF9GTA__&Key-Pair-Id=K2UXO1NPZVKO7N",
+      "quality_score": 0.95,
+      "generation_time": 13.99869,
+      "generation_id": 40,
+      "timestamp": "2025-12-07T21:20:42.096804"
+    },
+    {
+      "category": "ecommerce",
+      "name": "headphones",
+      "prompt": "Wireless over-ear headphones in matte black, levitating shot, studio lighting with rim light, centered composition, premium product photography",
+      "image_url": "https://d1ei2xrl63k822.cloudfront.net/api/res/2bff9da744554318b0093c1bbdc318e8.png?Expires=1765727465&Signature=NcqccY9pe6A2znS6vN186xdtkJBJ0bvw9bf8CFKHfavw-ZNuWt4KT2cUmBtHeIMs-6j~0PXBqJ7cHJkDvLNNDrZv~Lg-bwy9ZczdaWVCNywF4rUXoK7CS7QmYwPRnFIdCXazglGcGYruLcRwfvR67T~H9aXeVVKcnjxnGl~CjgDcHQxu1274-WORoL7FfHLMyzJi8RJHmCGLyKpzVZCNPgQqFPbyYnElt1Ex9cu34svNRSZhRUmbWWQ959tYkLmL7S6TEV1naaJJ5LMNKRUAY091PJG6n2WQduKnYRBQX4o49G941jEa1-vCbDc-BqiXHp25fDb716okYbLHbyg8ww__&Key-Pair-Id=K2UXO1NPZVKO7N",
+      "quality_score": 0.95,
+      "generation_time": 14.590159,
+      "generation_id": 41,
+      "timestamp": "2025-12-07T21:20:57.721709"
+    },
+    {
+      "category": "ecommerce",
+      "name": "sunglasses",
+      "prompt": "Designer aviator sunglasses on wooden surface, warm lighting, 45-degree angle, lifestyle product shot, bokeh background",
+      "image_url": "https://d1ei2xrl63k822.cloudfront.net/api/res/8dd61732fa964bf68fea40adfc15129d.png?Expires=1765727481&Signature=GpS0TeBznXZfEAFpBpTT9-dVfZHr3~BhCxFa1mMxzCHuCkkXABuRSPssg6rV-ZKcj3QUsBj7QIAEKxuFBRptTom59sBm28oxfJP0fqnZfQcV7qK1iIhM0lH~QSDct8rvT0tP2P9BKePZXWrNxh-G7hcL5cohYnzEwJd1F~H11ytus2o7BqDAFcizBJbepWOW4384a6RvuQnYfA-dkqxTP996fhadMLpmNuSnjIcSMtQhgwGnRcexseJvHPDxXgu2i65PvchT8Hnfc0tTyHoe5V8w61QcDTIASgBkApz8HitvGC8~FmeH5MOfz-tGfECOEXq~w7NUTHO50ncyicsiTQ__&Key-Pair-Id=K2UXO1NPZVKO7N",
+      "quality_score": 0.95,
+      "generation_time": 15.074999,
+      "generation_id": 42,
+      "timestamp": "2025-12-07T21:21:13.833239"
+    },
+    {
+      "category": "ecommerce",
+      "name": "coffee_machine",
+      "prompt": "Modern espresso machine in brushed steel, kitchen environment, soft window light, side angle, lifestyle photography, warm color palette",
+      "image_url": "https://d1ei2xrl63k822.cloudfront.net/api/res/79cec952b93a480b98ba85764bfc2194.png?Expires=1765727498&Signature=MwHyEIFSDQJQwy0G99PUWEZcy1HW58TRHwgO~1un-aWosHKS6B8tKi1KKPw3rjWdiBt~eyXTt85dEcLYzSd4E2Z0adgS4chN5UAF7HZTD9-dfQ4~DiN4xY3ls6O9XY6mI7iklx6izv-keS0eoWvx1Xd6bTk-j9Caa2SmjOWhfd3ff~yQYoA7wQyxEYGeStn5lGYIkq3YCH9ifAP7mtarhacOoOUwKnZnkvbLJCZdTrpaepbpHUEyoQgcsO6J~p9LtNzhMd026prd7BT75LDoWFq4bPcjQmOQEjUXjf3tK7ZCH3XmCm8iPcbG5u~U7SkadK3jIlGmGFXunEvZZ0qfug__&Key-Pair-Id=K2UXO1NPZVKO7N",
+      "quality_score": 0.95,
+      "generation_time": 15.492591,
+      "generation_id": 43,
+      "timestamp": "2025-12-07T21:21:30.361226"
+    },
+    {
+      "category": "ecommerce",
+      "name": "laptop",
+      "prompt": "Gaming laptop open on desk, RGB keyboard backlight, dark moody lighting, 30-degree angle, tech product photography, cyberpunk aesthetic",
+      "image_url": "https://d1ei2xrl63k822.cloudfront.net/api/res/aa6a29a5cc5044ea91e2575794b28388.png?Expires=1765727516&Signature=Yb3e1p7xZhfpoZtzn05agnmQAHrR7PZ53htOyrl4IV1pwF5SjGocerXco6mlSMGn1881vZ06kGbc64TO8w34pC7xHlyZSyCzB986Cewu9Mnuc5gFGTP-n69YtLlKdkaL-SCV8n5rX7EeqAJsuuOzkJyNEk6XT-Kt1r-R6G2dkvgRoOhQgqjWGsKYgdMiKdVmzYHZ1l5IIOaR-U4YdljHlyYQTcd~nTkN8vSeYK-2gYlQ5rAwbxY7kLox1u-8ZN6Stu4QXkd4YOsTQoHxiBE1s4pQFfwY9yvJ2JfPbNgGL8ltoIZ7LC5UCXzW3DErDO6YqyQQ00zb5frbsu7BumKhDA__&Key-Pair-Id=K2UXO1NPZVKO7N",
+      "quality_score": 0.95,
+      "generation_time": 16.69277,
+      "generation_id": 44,
+      "timestamp": "2025-12-07T21:21:48.082385"
+    },
+    {
+      "category": "ecommerce",
+      "name": "perfume_bottle",
+      "prompt": "Elegant perfume bottle with gold accents, black background, dramatic spotlight, centered composition, luxury product photography, reflections",
+      "image_url": "https://d1ei2xrl63k822.cloudfront.net/api/res/42ce17d669124dcaa1db91965b1e8134.png?Expires=1765727532&Signature=G0IMQizEkK2Ap4XLWXQdaYIZrHMXKseVw-pwGrjj46YxGAT0jjfPHY04NabbxstkmWcXlMy040Q-EilE-Tv9LUUckAeD~nER4CpdvHnHyOGiVL43udsGI4wP0HOtWwA~eJ2kq7FTdaxtEnQBUgexMKLqdz7pqLlAyu~O1~MAjQATlcyn9Ru7xGAZfdxUlIio1pVP6Tujyif3ECFPDejlII9-UFQVcZRKgda62pLzvCMXkcRzQrolmpFDLQ4e0DXTXCZH0-wCzuCSigwHcy7AIAGXFCI0m9SzWV3zA35xu5NwT12zt4TN-VT9dP9HUO8ae0E34oVjjMnhXHgqL~Ut5Q__&Key-Pair-Id=K2UXO1NPZVKO7N",
+      "quality_score": 0.95,
+      "generation_time": 15.16674,
+      "generation_id": 45,
+      "timestamp": "2025-12-07T21:22:04.289758"
+    },
+    {
+      "category": "ecommerce",
+      "name": "camera",
+      "prompt": "Mirrorless camera with lens, photographer's desk setup, natural window light, flat lay composition, professional gear photography",
+      "image_url": "https://d1ei2xrl63k822.cloudfront.net/api/res/d4cd05bf024542fba7034c4e0f8a7210.png?Expires=1765727551&Signature=V6B6ruzQA2l2APWVai3s7TP~D~W0xImi6CB4OvXBrIKwow4BcQpl4xhq3hCz3R1CfrObxcE~I9jpIccUBYmbAzBJq9UZfFeFx7QlYLudhPfTW5Skg78ybw2319nhqcQ1WIxAnGb82oxLBlPMqSpClzjfRQ~G8XH8aUX5gMNtSo3ptK9H3XLE0xVPlAAJVOsXSS2zyy8Pe6J-wy4XVLJptHC85RdyBNo~ZD9aDxSayZHZc0L6p3afI1-9fvvvXIs85MP00mBRLBw68Nzmn7lffmoCXthU4sGyILy~KyXCRZ6cl149LFSYVSJt0VhhXj0FakTJew55wrYJ0ZDjT0IZAA__&Key-Pair-Id=K2UXO1NPZVKO7N",
+      "quality_score": 0.95,
+      "generation_time": 18.392962,
+      "generation_id": 46,
+      "timestamp": "2025-12-07T21:22:23.718604"
+    },
+    {
+      "category": "ecommerce",
+      "name": "backpack",
+      "prompt": "Modern travel backpack in navy blue, outdoor mountain background, natural daylight, adventure lifestyle photography, product in environment",
+      "image_url": "https://d1ei2xrl63k822.cloudfront.net/api/res/a2f942fa222442a1bb4fc9552a687034.png?Expires=1765727567&Signature=c91mHz8uz6uja~YSYmI9CCdMJq8DVo~F1x50rKgwZcmrVT0gPH2cJdSCbu~DQWqwNqm~P2Zo7~hc-iNeKNr-93LC3IQ9AMNH38sQb4e1qIl87HhG-G7vEOhcLuc5AaW3FhvahT-J-JO1~4WmuFxD5Oe20ibk9P-x7cbuToX1bLrBMYy~9ojOhdYUSZeoKCacTKjaJLDmQCLJUWoDxIA6UIDHDvNwfEDGYuU9xiwfxKzQOudS6M27Aa1BlFdg9SgrckBK6rO14AMHND~CmSGiLzOZ8XHC9OdePZZh~oOU3iq0fhpt4iScBa5dVmxAYnZUdcF~aXhGmPp-JE1dlXveow__&Key-Pair-Id=K2UXO1NPZVKO7N",
+      "quality_score": 0.95,
+      "generation_time": 14.548531,
+      "generation_id": 47,
+      "timestamp": "2025-12-07T21:22:39.298957"
+    },
+    {
+      "category": "social",
+      "name": "coffee_lifestyle",
+      "prompt": "Instagram-style coffee cup on wooden table, morning light through window, cozy cafe atmosphere, warm tones, lifestyle photography, bokeh background",
+      "image_url": "https://d1ei2xrl63k822.cloudfront.net/api/res/666f35bc25ba42aabf92f27e9f66feee.png?Expires=1765727583&Signature=ki1u2tYHpfMOZQeXRs~BRdo88TGdnCKVHXV~nRqv01P1jJAbNsA1uMzEzMAwnRRH-8fNgcZIN1n6wCba6ofMNMKHwTtpvYwZaKcU6ikNXTCn3xvrdYGmw6-zVyjyphNqNm4BPvj54X8HtWU857ZRQOLFSgcKhd3CnpQO~LDohrKxoX1XGTHNW9d517u1xn316WNflz5Tn95nAJFvNGEQ4gY9lkaCoSS6ApUjWnlcheQvZi5gyi-5S6AKi87R83zmIFfIDPJa-inQPGYn926HWKYbVBP3a6u3~4L54-GqAWEV8zW6x4R3Dy3grmKDHnlyfGwpZfT7AHnRs1ZSYbXtVA__&Key-Pair-Id=K2UXO1NPZVKO7N",
+      "quality_score": 0.95,
+      "generation_time": 15.147209,
+      "generation_id": 48,
+      "timestamp": "2025-12-07T21:22:55.482901"
+    },
+    {
+      "category": "social",
+      "name": "fitness",
+      "prompt": "Fitness flatlay with yoga mat, dumbbells, water bottle, and smartwatch, bright clean lighting, top-down view, healthy lifestyle aesthetic",
+      "image_url": "https://d1ei2xrl63k822.cloudfront.net/api/res/f336f8bce64542c8b3d9a51ae7eda8c4.png?Expires=1765727600&Signature=GKOl9sbnl4snWTMWbYAa0uO74c9NSaZX2GY70HzGP~mpQbVbFe4awWgS5BGf4GdnLV6FC6RFYRLFLv5ximFEar8uudlF9Rcq~GingU2H8F5oWXsoNU8YdImhNdUwNPtoOlaFA~xe0l9YRMLb5yfnm0fc-uHjajnTIR4o1JP3JdsW2soNNJ5a9f6pnznFWm8oPfouE1w3WUy2hT1g0WdfljDOP5rlyGrHEaDlWftBHqgVjoxEt1Ic5ZcPVV8O4YIkFEOilASD6hkPaWxw7o98npRe4z9sIqkG9IlOxXvPJq6aMdAcOh5uNIswkSozrDKR58N53jfkbt94iWVgcgr4IA__&Key-Pair-Id=K2UXO1NPZVKO7N",
+      "quality_score": 0.95,
+      "generation_time": 15.675009,
+      "generation_id": 49,
+      "timestamp": "2025-12-07T21:23:12.197836"
+    },
+    {
+      "category": "social",
+      "name": "food_gourmet",
+      "prompt": "Gourmet burger with fries on rustic wooden board, natural lighting, close-up shot, food photography, appetizing presentation, shallow depth of field",
+      "image_url": "https://d1ei2xrl63k822.cloudfront.net/api/res/a57fa293c4a14ce59f92da5f434c4c21.png?Expires=1765727616&Signature=kkY-TjKpQkWBiO8kC0NvSxVDbFWbg38iXGWauJ6U7Up9RjvEj37u-hNGbgKGN0Tk9XBGdQQ1gR6yIqwvhqvQ1VdfOWPb3Dh9maW4l1k8gSc5iBwO9thBAtzDObSwtfng96rWDX1vqAw7VYE64BDrTjjdUl5DLrW03cPv2N25IWuB-R8szp42034O2TipytNMDjyRewwTJU0Oy9PBxk9fTlybfJDp8qrHeclPvJQlhn7Odw5-kk4rCpPBohrMXROvLdThGnsdlWdD~uSHsS-LUsWphDtmPNnCOZXVkMoD~kw2VUdN~R9GM8MrJiFg-AAFLs6lq1Z1ZTcJu0EwwM9qCg__&Key-Pair-Id=K2UXO1NPZVKO7N",
+      "quality_score": 0.95,
+      "generation_time": 15.598243,
+      "generation_id": 50,
+      "timestamp": "2025-12-07T21:23:28.823764"
+    },
+    {
+      "category": "social",
+      "name": "travel_beach",
+      "prompt": "Tropical beach sunset with palm trees, golden hour lighting, vibrant colors, travel photography, Instagram aesthetic, dreamy atmosphere",
+      "image_url": "https://d1ei2xrl63k822.cloudfront.net/api/res/843daebaf30a4f68ac742d104bc2895c.png?Expires=1765727633&Signature=KCHm8TqdX5Iz4L~JhC3uNaBQbWyuOFi7sncMqQF6OvSRI4cESESuvcZTy7w5FkHWuaqdSjeA15OCvvA-cJwtKiHjLs-CDmtuoI9X-~fhRx0UPTngRpNRTwJEbSS7U10W1MdSIDmCQRdos-CcfTTIYZGIvLLbkMsWGc83e4L8bcgGZbL0NsM8OR0SN7lUFnxnC~pLkhSzplF854pVhB9y0DyZJHC2EdAlkH1l5-g5BUCYOZA4EcDr~MKX6yeqG3qBzgb4k8gdw98cCcA34ItMZt4sxP0qyr31iV81fq8~LLycJQd-pfsTtNOUnDzYNIp0zzsoMpzM4VnMIJ10onqpxQ__&Key-Pair-Id=K2UXO1NPZVKO7N",
+      "quality_score": 0.95,
+      "generation_time": 15.946094,
+      "generation_id": 51,
+      "timestamp": "2025-12-07T21:23:45.814066"
+    },
+    {
+      "category": "social",
+      "name": "workspace",
+      "prompt": "Modern minimalist workspace with laptop and coffee, clean white desk, plants, natural light, productivity aesthetic, flat lay photography",
+      "image_url": "https://d1ei2xrl63k822.cloudfront.net/api/res/da029ca25a4a4ccdbbf1447d761f24f8.png?Expires=1765727650&Signature=RnT99qfd0pPSZgSQ7CPXWWx9PDWl4SqMLecLINmRlPppjLRtZeQE48GGmm3Z8q2KniN7UhQvjFwluVINZGfm9EIeRZcmlaIQmPmYJgPvBZP0X5oqhbB7OyDSDnzSULUcGOGWRHz1z6UZy6hRzEbCiHmpFPHg-ncyz7hgfBiUFbiq7SuaNEmNPihZ9YzXsaFhuh62jonKdeW3z8ntbVJIbJ5MH6Zx-hfR9s3PXaEhmBPhuJskJpnQ5bfVwiHddJ2FXsMHQbN0JbPkIi-Eqn9Fe8d47Ro0yLQpy21O18MCPhWNfOx9Qaf6-fnF~b4TWKb4Gg1SsHxNeQKsFTzMHoiYUg__&Key-Pair-Id=K2UXO1NPZVKO7N",
+      "quality_score": 0.95,
+      "generation_time": 15.522844,
+      "generation_id": 52,
+      "timestamp": "2025-12-07T21:24:02.359284"
+    },
+    {
+      "category": "social",
+      "name": "fashion_street",
+      "prompt": "Urban street style fashion portrait, city background, golden hour, fashionable outfit, lifestyle photography, trendy aesthetic",
+      "image_url": "https://d1ei2xrl63k822.cloudfront.net/api/res/d8cd25a8ae944ae8bf622234757643bb.png?Expires=1765727664&Signature=g9Ctv694eciM6215KWc0Ev0XkhxnkQ6lVTvKAFULG51HgrzYKVEFIkkgNy~awYTT9SVuyQnMBzc38wUdv5mSa8dkrAft2027gXoHvG-q9hp~JkrNbXC2rxwXyUQC-wGxATWxH2~Q5vrUZo0eZa79f~l2BK5lCOs3ZWj3Y9DAhwcpwNV96DHvIXtDjD5YLyNqqgch8ILnM3cMF~1jZntppJXrwJ7-6P314CJ0EgqTTx7MiAf2VzdjNdk63vQBjkYxDvueso-oeJ~SfwCYggFg7TY0HrGLo2iCAkyynRWtiU5YithH8U8N7gUHwWOL3oIkd6bwsqL-cPZNX9-iKM8bgg__&Key-Pair-Id=K2UXO1NPZVKO7N",
+      "quality_score": 0.95,
+      "generation_time": 13.194548,
+      "generation_id": 53,
+      "timestamp": "2025-12-07T21:24:16.591058"
+    },
+    {
+      "category": "social",
+      "name": "party_celebration",
+      "prompt": "Colorful party celebration with balloons and confetti, bright vibrant colors, festive atmosphere, social media content, joyful mood",
+      "image_url": "https://d1ei2xrl63k822.cloudfront.net/api/res/810d2c2e3ff4440b910451c66787dfcb.png?Expires=1765727682&Signature=Mv0-BD25zQUouT1YQfMoemH1oTElqAFCpuXHzO4a2dlVwfEIgpvTvwjHdVWkV-hbQwd0kIKk2cEbiqVFgvs5Jlg74FcYCzEwLN9CaTI6WBnztVkoLl08hEtxQAp3slCnrrDSkjARYdqXliRmFDWrBb30yqW2VRnHEaqCHuGiMUWDmfkSM-w4Q2g0zWJOmJ~zsgpSBeZiZl6hA3XYErke4ufILww3wYycv4doxvGsvi7iCaYdhM1Gx0lGco7of5QJdrzBySMwtvtgXHb3WGM5JBnWeeSYTNVibZzKPwSLMBCrhKz-XQwyeGbN9Y1v28YJ1AmyF2Z~xQcYSw10-eG7bw__&Key-Pair-Id=K2UXO1NPZVKO7N",
+      "quality_score": 0.95,
+      "generation_time": 16.766093,
+      "generation_id": 54,
+      "timestamp": "2025-12-07T21:24:34.421173"
+    },
+    {
+      "category": "social",
+      "name": "pet_portrait",
+      "prompt": "Adorable golden retriever portrait, outdoor natural lighting, green park background, pet photography, happy expression, bokeh effect",
+      "image_url": "https://d1ei2xrl63k822.cloudfront.net/api/res/9067da71288442dd9b79246b2522d99f.png?Expires=1765727697&Signature=b10kvz7Ju87eRGUGyOXD-7Ew7DGYm~a~G0zgBcmStLu7FQMcbwV194xFRHqgUjZQzTWDTuxn6BoI9ka~YDObFm888fLmWrnQmU7sNCwjb592MXtUXpZMOhXAbTTqX58dGi22pztKv2nM0HqzZdHNHQoXb5FLmD1HE~y32GRAaY1NLfRW98~4GCuqftPq~L8WvysLQzysqhBZEb2z1~iDo6sYNLnlhQDls9DUggxgWegmYnQS3FQB~xCNAg0KQ1qY0rc4Ty0y716zGTmA~LW3P28mh121ftN~2zqFEjTd8mi4ZcrM6o1yWsixyHD0Z5lqwumNIBvOzQ492JzeUokVyA__&Key-Pair-Id=K2UXO1NPZVKO7N",
+      "quality_score": 0.95,
+      "generation_time": 14.44625,
+      "generation_id": 55,
+      "timestamp": "2025-12-07T21:24:49.895158"
+    },
+    {
+      "category": "social",
+      "name": "home_decor",
+      "prompt": "Scandinavian interior design living room, natural light, plants, minimalist aesthetic, home decor inspiration, cozy atmosphere",
+      "image_url": "https://d1ei2xrl63k822.cloudfront.net/api/res/66c001f54ba641c3aab4890e390190f4.png?Expires=1765727717&Signature=hVxclaudCuRQPiJAOiqVVtXd2p-Yaf6A51-wr6wBmKm8He68aUuZbb8dE7M8bT2d7M7dr7ZFc33saKHldA2nDjQkHRQcJ0ZKNaxg~yrxupAmV5MUiJ7fSEmB0WJ1buxZ78LG~dvDASDA4ye~Ucrzkq1QN8e5leZ8Qx7sbmrGf631OxwWzJtnRhhOreFv7UDWEGkbcKpQtlAHQzLOiZqZAJU~kQsWt2HJPAPMPs4tBBpAsigWD41wxcKZfndhadve6mk-aNHiIUMSmXSw~ogJDaku-Ofrl~NosT5MEaV331m5lE6G3AorOijMvK3F088cnhl3nnodM7mnrr-ttwmS0g__&Key-Pair-Id=K2UXO1NPZVKO7N",
+      "quality_score": 0.95,
+      "generation_time": 18.21374,
+      "generation_id": 56,
+      "timestamp": "2025-12-07T21:25:09.153877"
+    },
+    {
+      "category": "social",
+      "name": "adventure_hiking",
+      "prompt": "Mountain hiking adventure landscape, dramatic sunset, epic outdoor photography, adventure travel content, inspiring vista",
+      "image_url": "https://d1ei2xrl63k822.cloudfront.net/api/res/1a394db6e2a5457b91884a38893f9496.png?Expires=1765727734&Signature=hhv1qK4DnQERkucJG9RSxx2KZQcfTmrCHo-XAcMO1U6J6oYVjlaNlP0WSGqUyMvP1fyBVzm59kr36rAogKdulluosO5fd9vd55kcM8-wruBMgP3p7EgXpjYDnzg7ELIWaCTD0ta6qyYEfjG7esiVzjZ0eyyWy~ysFdLAZoBOPVXFhDVNObKPTg6roPtqOx2a3Su8O0fAqL2~4ix8o5meoxqX4h0-i9WbykQT8F1E--qgwP7GzyTtStUWZNrD03eLkBCMzrqDV-sE7HCzMUeoDkGLVkzT~AKFwDIX2L2V1bPR50Nyal7sjDza04MtNfkjfBAVCNd7c9X~uPepSry6CQ__&Key-Pair-Id=K2UXO1NPZVKO7N",
+      "quality_score": 0.95,
+      "generation_time": 16.830806,
+      "generation_id": 57,
+      "timestamp": "2025-12-07T21:25:27.018956"
+    },
+    {
+      "category": "games",
+      "name": "fantasy_sword",
+      "prompt": "Legendary fantasy sword with glowing runes, dramatic lighting, medieval game asset, intricate details, magical blue glow, epic fantasy style",
+      "image_url": "https://d1ei2xrl63k822.cloudfront.net/api/res/b1a44352903b45db8ca511ab1d078960.png?Expires=1765727751&Signature=An~ycH17wOskG3TXejBATu01CmWNEwOmf4Cw~37zy6VAONfl~C5Ghg6eht-RW2xxQkqupfMbihI9jUz8k~y9wGut8O4JIF2shlQDyoyhUXQYgS4G5wbV~F-jlxhCsN8fnFPoq226X8TIeURY5SjO2Ef5azdJVcSRnwtPiUPTnzwPS0xts3ZTs6Xc1YaGO5BGaT82vISat4niP2zZvGJ6nEP2BdEVzHeQ~cyMdPseuCdlWHk5ULfKGW0WJMy~0-GPoszD~kLHiLtzCYFFkPF5kxu4F0zsVKxGlUXTKLXkFQgfrJns5tSkL1pCO62mxCauLdYVO9mcnjyy-zjALK-0Rg__&Key-Pair-Id=K2UXO1NPZVKO7N",
+      "quality_score": 0.95,
+      "generation_time": 15.518657,
+      "generation_id": 58,
+      "timestamp": "2025-12-07T21:25:43.581148"
+    },
+    {
+      "category": "games",
+      "name": "scifi_weapon",
+      "prompt": "Futuristic energy rifle with neon accents, sci-fi game weapon, detailed tech design, holographic sights, cyberpunk style, glowing elements",
+      "image_url": "https://d1ei2xrl63k822.cloudfront.net/api/res/57592b70993d4332aaa97b583d6723f7.png?Expires=1765727768&Signature=e1VGMn8Uyn-REXQG5zRTNsax0fx9YGdWyJR8gcu6OH~9RxwSygBEhEje3oklBnCLpxuxOe~KU4JeXqwtJ3kf9GfbjpebfDCeu1ec9qub9T0XxIWkMyoimKFyiPtoRg37jiA0gS~qHYaz7s3jPx9nofbN9iPJkNzLvOpP-r4D1J~hp6WdVZyAXtxqZshIM582hNCvuq6ap4tiG6b~VT7Oe2ff~CASswhuEK7FA20R1jRKLhGC2YU3NslznPvfIaGQQU3hA0rR7MOmzPIeeypmgW4CC1UuRE1c8EI-MzKsHfGsTcqXIWzPy828lFl-~CjcOWw-YhYal9ANGxU3L9KzOQ__&Key-Pair-Id=K2UXO1NPZVKO7N",
+      "quality_score": 0.95,
+      "generation_time": 15.516858,
+      "generation_id": 59,
+      "timestamp": "2025-12-07T21:26:00.145083"
+    },
+    {
+      "category": "games",
+      "name": "magic_potion",
+      "prompt": "Mystical healing potion bottle with glowing green liquid, fantasy game item, magical particles, ornate glass design, RPG asset style",
+      "image_url": "https://d1ei2xrl63k822.cloudfront.net/api/res/41e8d85d21f4496fa1db2c5e7974df13.png?Expires=1765727785&Signature=XbgvqQ8pAMh7vc1xFCNw7FSSltZeb4nQ8cWeVhQOrnuxJySwufKVsYNP53ZwekF97owNUtI2KN9mUJQlQKIPs28eRj2MdRJHaeRo-6AHoxJvF5kh-07KlKWxCxEi1kpQD165vty2jw77wt-a60cFNix4fD8mmpGVglDBIcT6aciFFLEa-~K09vULi7qyD3kfgIWKg~IB6Jf8NZSANmeljLZPWMzE6RvhVtmyEUz33ZVJfdSl6i-Gnogk5yK9iAFmvcotHQW5JpM1iRCU2EVB7RB5sMs8BcSc279HcycwuxT7jHVxMV3IsnfpXEodn8zmAVJd9U-y2dpDrACFtiwkMg__&Key-Pair-Id=K2UXO1NPZVKO7N",
+      "quality_score": 0.95,
+      "generation_time": 15.88484,
+      "generation_id": 60,
+      "timestamp": "2025-12-07T21:26:17.061910"
+    },
+    {
+      "category": "games",
+      "name": "armor_knight",
+      "prompt": "Detailed knight armor set with golden trim, medieval fantasy, battle-worn metal, epic game asset, heroic presentation",
+      "image_url": "https://d1ei2xrl63k822.cloudfront.net/api/res/8483fbe744ce4c3b83cbcceea123a7e3.png?Expires=1765727798&Signature=Uo~SZ0abimF5KbnDak-hxuf1ix88CWrNY2OffZH22mabz6wl-ZflwKeh~8gqTuoMJOSMUZrdx4gS01CJIYXUSGoCZEb6b3~V~AscfklhtS8sK2G4nlP7GdhG1VjWwkDhwdWbBrd9SkrfYR6mZaZpMlMTEBhpDioCEfzlEVUCxG07~0Ky-GCOkNExGFEJplZuzwERuFGbQPrKsUKzi8z0ZnJIoVvqWg09uDwJyLJd8Lu7VYcVeGTlHzsRyAriL~VMbB0OaX0u7TRLNQt8OvtjM7lcbev4Z-mAawAYmphbO1SWfO7U-Th5T3WtclAUbYdSJ7zXLiWTjRjJAkUJOdECKQ__&Key-Pair-Id=K2UXO1NPZVKO7N",
+      "quality_score": 0.95,
+      "generation_time": 12.854525,
+      "generation_id": 61,
+      "timestamp": "2025-12-07T21:26:30.949935"
+    },
+    {
+      "category": "games",
+      "name": "treasure_chest",
+      "prompt": "Ancient treasure chest overflowing with gold coins and gems, fantasy RPG asset, detailed wood carving, dramatic lighting, rich colors",
+      "image_url": "https://d1ei2xrl63k822.cloudfront.net/api/res/4ec20f325bda4c359e4008d2a87e0f81.png?Expires=1765727816&Signature=JA2-UnVrmIU2SxijWIvt08TSV3ATsBedi70eWiq-08VAxZcByHWJNltc8I2GQZVGKYzMwwZ0sNwVVvA8t8u8TSuRW3LKsfqNWed1PDhQIwHtjLFz8S9I-qcRliG0qmWBAths38UITC4yf5WljmxNZdiSdtO7Md2M94lPPyWRt-FUdtkQt5MR1sORnYPdjnq92~g1vD1wQpqI7amyBBl9Azmec5oAxC2nWrxv~D9PTp8AopoLyOANsgS39Vqc1heaJUBKIEjg1iTFjFhodRDaCcqu0iBvVNuYhKoHKLrPBl6m1-SUpkVbXrKiH8QLbUyofoObEqPqN4Hgpogz1LDj2Q__&Key-Pair-Id=K2UXO1NPZVKO7N",
+      "quality_score": 0.95,
+      "generation_time": 16.097725,
+      "generation_id": 62,
+      "timestamp": "2025-12-07T21:26:48.081431"
+    },
+    {
+      "category": "games",
+      "name": "robot_character",
+      "prompt": "Advanced combat robot character, sci-fi game design, metallic blue and silver, LED lights, futuristic military style, detailed mechanics",
+      "image_url": "https://d1ei2xrl63k822.cloudfront.net/api/res/16342622cf824af28393a781b39657f6.png?Expires=1765727830&Signature=m~WxBprw~0ZUjhM43IZt4AfiVv5FERT1I7xLV9aDozmtDW81CdQxsXAcoKeSG5rcx8vqJWozRkrx23L5nZjILBoO~zTg123VBn89cHr36KotBMrkRP06~afD7GIO-DMjBbzuk8uX4O2HntK-apGzsGB31VXdIHk6Hpoq9A2~lZ2mb3IxX8jieAPjRJowlERNL-CwflYM6SRUDDZR~dcj-J-UpEmbnnBqY1bEfSvW4~eizA~-D3qy5CYAzvAkoVF022ySfaCU4XTdpbRR5rIYbN5ob9kBeIt-EF05YhWDvrhUOOZfUevnyp-TlNTCB36ewAPXW9ZSZdPsl-ngYDojQA__&Key-Pair-Id=K2UXO1NPZVKO7N",
+      "quality_score": 0.95,
+      "generation_time": 13.515989,
+      "generation_id": 63,
+      "timestamp": "2025-12-07T21:27:02.642917"
+    },
+    {
+      "category": "games",
+      "name": "crystal_gem",
+      "prompt": "Magical glowing crystal gem floating, purple and blue energy, fantasy game resource, ethereal glow, mystical particles",
+      "image_url": "https://d1ei2xrl63k822.cloudfront.net/api/res/2a13c3c9c1b14e95bf9d2d3390c08a2f.png?Expires=1765727848&Signature=KQuFLJUFdnP3bh~yL4YSFEaNN2ObCGJh5ywKOqvXkwziyEhsFHqrtBa5mF97QgPSY5XwqEpK7YZHBLWLATR44EQX-h9WYQ2Vxki0CL3jbjyIVrn5eq18awLtOlT6FaUp6g7ZsR9uI6cK29HrQ0T1Uel1MsuyrH8Ve4zaT-5cu43ds5fJqeS1hr8V~GJ1bxu3zPl22uPjDdXKBT32Sk11jgqsK5I67YtcueQxZjsJfi-KwnFdcSVvN7yWf8HAhu2YrjycamU9JRE78KJGxXwL7U0Oid64LQwfaAaPPR3cSUyE7XOvEvP~aE3voBydou9EXtKe~9fIhWsr7RKCz-QDPA__&Key-Pair-Id=K2UXO1NPZVKO7N",
+      "quality_score": 0.95,
+      "generation_time": 16.85192,
+      "generation_id": 64,
+      "timestamp": "2025-12-07T21:27:20.528163"
+    },
+    {
+      "category": "games",
+      "name": "spaceship_interior",
+      "prompt": "Futuristic spaceship cockpit interior, holographic displays, sci-fi game environment, neon lighting, detailed control panels, cyberpunk aesthetic",
+      "image_url": "https://d1ei2xrl63k822.cloudfront.net/api/res/56a0575af3844689a3bc09afbde343fe.png?Expires=1765727868&Signature=nZbTXNEVV8oAJSQnlEcW1AIDBdUfWi8eFZllJjcYg--W~eekwKIG4RLksI1z4DbntRbLQVnUGvejsi3x9nZiVgYVv-WI6ydE2ENp7mCdjt64RlcbMI8dNqBEENxVpeIBzpJhtJRW1rnNHwfuH1ILeTpCqgIHBK-yl~M6LPQuzCfBmrZg4ReC0GfIMtJgMofMFuyvaCugSJrSrqSj5IGnEFJN~cVtpr1xxQmuDlrhkG5BRCiiz3zkRuvkwo8mc0hwwT4nD2yaAqedf4nGfULchxRPFl3xgn8Chtsc4WQ5o5fEF31UGnqZ3ENJpnc7hjJgZjHB4h1ksruwkAAxlBaLlg__&Key-Pair-Id=K2UXO1NPZVKO7N",
+      "quality_score": 0.95,
+      "generation_time": 18.876463,
+      "generation_id": 65,
+      "timestamp": "2025-12-07T21:27:40.450852"
+    },
+    {
+      "category": "games",
+      "name": "dragon_scales",
+      "prompt": "Dragon scale armor texture, fantasy game material, iridescent colors, detailed reptilian pattern, mystical sheen, close-up detail shot",
+      "image_url": "https://d1ei2xrl63k822.cloudfront.net/api/res/c0a056e130ba4f3fa23d33a37f614a11.png?Expires=1765727884&Signature=h4b14HOlMK~NnS~FPpSvyvbW~nLYDnrEUJjL--MhfeHrUit4~EmXAZ0hN~lFKH0yTzoOmJSXzKxYlSYeoJ6n5b0zgNizSylFJRIxYB5sPtB64g0M1eAs9byXqHRrC4-FV4LDrV8bxvitUyTrP1pMta9OsKNIAQ7hAkS~ykg~kOrh4kyrwzVbbQPZO3LFZUuRgd~xqbi3TjVTgvJj91a-ybKGKAIPVPgt7nS0Qbgj4pnWJbxXUYJ58Gy7I8GDS-BY9grD6jznQzgTF6CGvJifiQomLUDq5keVVRbu32rNGZShcNa8QLdbYr-mSClNHGcPauOkXguzxdEdpMrYB49RkA__&Key-Pair-Id=K2UXO1NPZVKO7N",
+      "quality_score": 0.95,
+      "generation_time": 14.578268,
+      "generation_id": 66,
+      "timestamp": "2025-12-07T21:27:56.059051"
+    },
+    {
+      "category": "games",
+      "name": "cyberpunk_city",
+      "prompt": "Neon-lit cyberpunk city street at night, futuristic game environment, rain-soaked pavement, holographic billboards, dystopian atmosphere",
+      "image_url": "https://d1ei2xrl63k822.cloudfront.net/api/res/4a78957e74444cb99565934c9be721e2.png?Expires=1765727910&Signature=MKOtIIVC3RhWCMFm3DyFjVMHKuO6RDxoK5nXs4XYmUKPf8QCP2EerFwOgQsgDmprzH5sE91NZPeKT-Gmux1yvodX8vsL7CAPrNqv432qB7X8QRvItlUbrFrjc477UeqAf4bJb0aplF8giJ72Iw7y02d667u77yPAutI~wkEk9P9~2aam3h~I24Wmdtdct6ahetqIROm1eZZnQ-iTTJAx7ogfmRUShLZtJ~7Jx-eF7V-cv8PNZsb07yTfUG4iot~o3l0B6z8mEwD9KG69~8ASznvLMlwWohSrhdRdpYkQe6vbVSlFzneM-eAbUkkI6cTbNKqEhLGD91GgsnvsTqoaiA__&Key-Pair-Id=K2UXO1NPZVKO7N",
+      "quality_score": 0.95,
+      "generation_time": 25.263334,
+      "generation_id": 67,
+      "timestamp": "2025-12-07T21:28:22.343865"
+    }
+  ]
+}
