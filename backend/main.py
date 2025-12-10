@@ -9,7 +9,7 @@ import logging
 from typing import Optional
 
 from config import settings
-from routers import generation, workflows, projects, auth
+from routers import generation, workflows, projects, auth, ai_translator, image_processing, brand_guidelines, analytics, controlnet
 from database import engine, Base
 from middleware.rate_limit import RateLimitMiddleware
 from middleware.logging import LoggingMiddleware
@@ -73,6 +73,11 @@ app.include_router(auth.router, prefix="/api/auth", tags=["Authentication"])
 app.include_router(generation.router, prefix="/api/generate", tags=["Generation"])
 app.include_router(workflows.router, prefix="/api/workflows", tags=["Workflows"])
 app.include_router(projects.router, prefix="/api/projects", tags=["Projects"])
+app.include_router(ai_translator.router, prefix="/api/ai", tags=["AI Translator"])
+app.include_router(image_processing.router, prefix="/api/image-processing", tags=["Image Processing"])
+app.include_router(brand_guidelines.router, prefix="/api/brand", tags=["Brand Guidelines"])
+app.include_router(analytics.router, prefix="/api/analytics", tags=["Analytics"])
+app.include_router(controlnet.router, prefix="/api/controlnet", tags=["ControlNet"])
 
 
 @app.get("/")

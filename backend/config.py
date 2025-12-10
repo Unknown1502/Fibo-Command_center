@@ -23,6 +23,15 @@ class Settings(BaseSettings):
     OPENAI_API_KEY: str = ""
     OPENAI_MODEL: str = "gpt-3.5-turbo"
     
+    # FREE AI Alternatives
+    GROQ_API_KEY: str = ""
+    USE_GROQ: bool = False
+    GROQ_MODEL: str = "llama-3.1-70b-versatile"
+    
+    GEMINI_API_KEY: str = ""
+    USE_GEMINI: bool = False
+    GEMINI_MODEL: str = "gemini-1.5-flash"
+    
     # Database Configuration
     DATABASE_URL: str = "postgresql://postgres:password@localhost:5432/fibo_command_center"
     DATABASE_POOL_SIZE: int = 10
