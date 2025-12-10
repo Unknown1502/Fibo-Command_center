@@ -92,8 +92,9 @@ const Generator = () => {
                   id="prompt"
                   name="prompt"
                   rows={3}
-                  className="shadow-sm focus:ring-indigo-500 focus:border-indigo-500 block w-full sm:text-sm border-gray-300 rounded-md"
-                  placeholder="Describe what you want to generate..."
+                  className="shadow-sm focus:ring-indigo-500 focus:border-indigo-500 block w-full sm:text-sm border-gray-300 rounded-md bg-white text-gray-900 placeholder-gray-400"
+                  style={{ color: '#111827', fontSize: '15px' }}
+                  placeholder="Describe what you want to generate... (e.g., 'Epic fantasy game character art with heroic pose')"
                   value={prompt}
                   onChange={(e) => setPrompt(e.target.value)}
                   required

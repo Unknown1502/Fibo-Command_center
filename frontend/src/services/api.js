@@ -117,4 +117,21 @@ export const healthAPI = {
   },
 };
 
+export const aiAPI = {
+  translate: async (data) => {
+    const response = await api.post('/api/ai/translate', data);
+    return response.data;
+  },
+  
+  getExamples: async () => {
+    const response = await api.get('/api/ai/examples');
+    return response.data;
+  },
+  
+  getParameterGuide: async () => {
+    const response = await api.get('/api/ai/parameter-guide');
+    return response.data;
+  },
+};
+
 export default api;
