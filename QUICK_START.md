@@ -1,6 +1,6 @@
 # ⚡ Quick Start Guide - FIBO Command Center
 
-**Get up and running in 5 minutes!**
+**Setup instructions for running the application.**
 
 ---
 

@@ -1,13 +1,13 @@
 # 🚀 FIBO Command Center
 
-> **Professional AI Visual Production Suite with Agentic Intelligence**
+> AI Visual Production Suite with Agentic Intelligence
 
 [![FIBO Hackathon 2025](https://img.shields.io/badge/FIBO-Hackathon%202025-6366f1)](https://fibo-hackathon.devpost.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-success.svg)](LICENSE)
 [![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-blue.svg)](https://www.python.org/downloads/)
 [![React 18](https://img.shields.io/badge/React-18-61dafb.svg)](https://reactjs.org/)
 
-**FIBO Command Center** is an enterprise-grade AI visual production platform that transforms natural language descriptions into professional BRIA AI images with full parameter control, HDR processing, brand compliance, and advanced analytics.
+**FIBO Command Center** is an AI visual production platform that transforms natural language descriptions into BRIA AI images with parameter control, HDR processing, brand compliance, and analytics.
 
 ---
 
